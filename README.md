@@ -2,6 +2,7 @@
 
 # Read On Arizona - MapLIT
 MAG mapping application showing selected key data for Arizona Schools
+
 Read On MapLIT site documenting site data
 ## Keywords
 
